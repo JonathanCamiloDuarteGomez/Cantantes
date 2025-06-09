@@ -4,7 +4,11 @@ Este proyecto es una solución a un reto de programación en el que se solicita:
 
 1. Registrar datos de cantantes  
 2. Registrar datos de canciones  
-3. Buscar canciones por nombre del cantante  
+3. Buscar canciones por nombre del cantante
+</a>
+<a href="https://youtu.be/01T7bB2CyDo" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
 
 El sistema está desarrollado con Spring Boot y conectado a una base de datos PostgreSQL. Implementa funcionalidades CRUD y consultas SQL nativas y JPQL.
 
