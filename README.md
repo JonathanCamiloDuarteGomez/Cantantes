@@ -20,7 +20,7 @@ El sistema está desarrollado con Spring Boot y conectado a una base de datos Po
 | 🌀 **Hibernate**   | ORM para mapeo de entidades  |
 | 💉 **DI**          | Inyección de dependencias    |
 
-<img src="/assets/Boot.png" width="400" alt="Spring Boot Logo"/>
+<img src="/Assets/Boot.png" width="400" alt="Spring Boot Logo"/>
 
 ---
 
@@ -28,11 +28,11 @@ El sistema está desarrollado con Spring Boot y conectado a una base de datos Po
 
 | Registro de Cantantes | Lista de Cantantes |
 |:---------------------:|:------------------:|
-| <img src="/assets/UX.png" width="400" alt="Registro de Cantantes"/> | <img src="/assets/UX1.png" width="400" alt="Lista de Cantantes"/> |
+| <img src="/Assets/uno.png" width="400" alt="Registro de Cantantes"/> | <img src="/Assets/Dos.png" width="400" alt="Lista de Cantantes"/> |
 
 | Registro de Canciones | Búsqueda por Cantante |
 |:----------------------:|:---------------------:|
-| <img src="/assets/UX.png" width="400" alt="Registro de Canciones"/> | <img src="/assets/UX1.png" width="400" alt="Buscar por Cantante"/> |
+| <img src="/Assets/Tres.png" width="400" alt="Registro de Canciones"/> | <img src="/Assets/Cuatro.png" width="400" alt="Buscar por Cantante"/> |
 
 ---
 
